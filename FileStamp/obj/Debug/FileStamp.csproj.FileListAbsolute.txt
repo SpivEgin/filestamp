@@ -1,0 +1,8 @@
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Debug\FileStamp.exe.config
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Debug\FileStamp.exe
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Debug\FileStamp.pdb
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Debug\CommandLine.dll
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Debug\CommandLine.xml
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Debug\FileStamp.csprojResolveAssemblyReference.cache
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Debug\FileStamp.exe
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Debug\FileStamp.pdb

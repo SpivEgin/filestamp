@@ -1,0 +1,12 @@
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Release\FileStamp.exe.config
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Release\FileStamp.exe
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Release\FileStamp.pdb
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Release\CommandLine.dll
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Release\CommandLine.xml
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Release\FileStamp.exe
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Release\FileStamp.pdb
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Release\FileStamp.exe.manifest
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\bin\Release\FileStamp.application
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Release\FileStamp.exe.manifest
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Release\FileStamp.application
+C:\Cloud\Dropbox\C#\FileStamp\FileStamp\FileStamp\obj\Release\FileStamp.csprojResolveAssemblyReference.cache
